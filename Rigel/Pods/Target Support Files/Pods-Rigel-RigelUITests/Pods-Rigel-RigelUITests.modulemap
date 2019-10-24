@@ -1,0 +1,6 @@
+framework module Pods_Rigel_RigelUITests {
+  umbrella header "Pods-Rigel-RigelUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

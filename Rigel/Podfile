@@ -1,0 +1,25 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Rigel' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+ pod 'NVActivityIndicatorView'
+  pod 'SwiftIcons'
+  pod 'SwiftyJSON'
+  pod 'Alamofire'
+  pod 'RealmSwift'
+  pod 'SDWebImage', '~> 4.0'
+  pod 'SYPhotoBrowser'
+  # Pods for Rigel
+
+  target 'RigelTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'RigelUITests' do
+    # Pods for testing
+  end
+
+end

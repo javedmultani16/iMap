@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (4.9.0)
+  - DACircularProgress (2.3.1)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - Realm (3.20.0):
+    - Realm/Headers (= 3.20.0)
+  - Realm/Headers (3.20.0)
+  - RealmSwift (3.20.0):
+    - Realm (= 3.20.0)
+  - SDWebImage (4.4.7):
+    - SDWebImage/Core (= 4.4.7)
+  - SDWebImage/Core (4.4.7)
+  - SwiftIcons (2.3.2)
+  - SwiftyJSON (5.0.0)
+  - SYPhotoBrowser (2.2):
+    - DACircularProgress
+    - SDWebImage
+
+DEPENDENCIES:
+  - Alamofire
+  - NVActivityIndicatorView
+  - RealmSwift
+  - SDWebImage (~> 4.0)
+  - SwiftIcons
+  - SwiftyJSON
+  - SYPhotoBrowser
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DACircularProgress
+    - NVActivityIndicatorView
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SwiftIcons
+    - SwiftyJSON
+    - SYPhotoBrowser
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  Realm: 8b2ca5bc6479a91f379b6b42b5922e396cd5ba5a
+  RealmSwift: 1949ef26a279e1845bd51d591b9103adfcd121df
+  SDWebImage: c10d14a8883ebd89664f02a422006f66a85c0c5d
+  SwiftIcons: e652cfd2676441c462ad57b6e92977faf577e590
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  SYPhotoBrowser: 3d07334dbcf6430f7f028f32a14f8ec77bc61fe2
+
+PODFILE CHECKSUM: a6c39a6350f20099330d3941855e1054a913cc22
+
+COCOAPODS: 1.8.4

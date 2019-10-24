@@ -1,0 +1,6 @@
+framework module Pods_Rigel {
+  umbrella header "Pods-Rigel-umbrella.h"
+
+  export *
+  module * { export * }
+}
